@@ -1,2 +1,2 @@
-# WIN2A
+# WIN3A
 Lokaverkfni, Dagbók
