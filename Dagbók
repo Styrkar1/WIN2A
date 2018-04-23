@@ -1,3 +1,5 @@
 
 18.04.2018
 Breyttum ip tölunum og netkortunum. Settum upp dhcp og dns og sameinuðum serverana.
+23.04.2018
+Löguðum villur í scriptinu og náðum að setja inn næstum öll OU. Erum að byrja að vinna í substring líka
