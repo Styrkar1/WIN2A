@@ -3,6 +3,8 @@
 Breyttum ip tölunum og netkortunum. Settum upp dhcp og dns og sameinuðum serverana.
 23.04.2018
 Löguðum villur í scriptinu og náðum að setja inn næstum öll OU. Erum að byrja að vinna í substring líka
-25.05.2018
+25.04.2018
 náðum að gera script sem setur notanda inn með fyrstu 2 stafi í fyrsta og síðasta nafni. fórum að vinna í að skipta út íslenskum stöfum
 fyrir aðra stafi.
+2.5.2018
+Klárðuðum alveg OU og gerðum notendur með ekki íslenskum stöfum. byrjuðum að reyna við auto increment
